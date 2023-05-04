@@ -89,8 +89,8 @@ git commit -m "Adiciona nova funcionalidade"
 git push origin minha-nova-feature
 ```
 
-5. Crie um Pull Request no repositório do Tour App. Seu Pull Request será avaliado e, se aceito, será mesclado com o código principal.
+5. Crie um Pull Request no repositório do Tour. Seu Pull Request será avaliado e, se aceito, será mesclado com o código principal.
 
 ## Licença
 
-O Tour App é distribuído sob a licença MIT. Consulte o arquivo LICENSE para obter mais informações.
+O Tour é distribuído sob a licença MIT. Consulte o arquivo LICENSE para obter mais informações.
